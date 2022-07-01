@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Stack;
 
 public class Solution_크레인인형뽑기 {
-
+	// Stack
 	static class Solution {
 	    public int solution(int[][] board, int[] moves) {
 	        
